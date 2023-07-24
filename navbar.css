@@ -1,0 +1,16 @@
+body {
+    background-color: #2c2c2c;
+}
+
+.dropdown-divider {
+    background-color: darkgrey;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.navbar-nav li:hover>.dropdown-menu
+{
+    display: block;
+}
